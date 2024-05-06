@@ -28,6 +28,7 @@ Utilizando el conjunto de datos proporcionado, el objetivo es construir un model
 Además, se requiere que el alumno calcule y agregue al conjunto de datos las siguientes características:
 * **Aspect ratio (K)**: Relación entre la longitud del eje mayor (L) y la longitud del eje menor (l) .
 * **Roundness (R)**: Se debe calcular utilizando la fórmula (4piA)/(P^2).
+
 Estas nuevas características calculadas se utilizarán como parte del conjunto de datos para el entrenamiento y evaluación del modelo de clasificación.
 
 ## **Recursos**
